@@ -1,0 +1,28 @@
+/Users/eddylara/projects/Tax calculator/bin/Debug/netcoreapp2.1/Tax calculator.deps.json
+/Users/eddylara/projects/Tax calculator/bin/Debug/netcoreapp2.1/Tax calculator.runtimeconfig.json
+/Users/eddylara/projects/Tax calculator/bin/Debug/netcoreapp2.1/Tax calculator.runtimeconfig.dev.json
+/Users/eddylara/projects/Tax calculator/bin/Debug/netcoreapp2.1/Tax calculator.dll
+/Users/eddylara/projects/Tax calculator/bin/Debug/netcoreapp2.1/Tax calculator.pdb
+/Users/eddylara/projects/Tax calculator/bin/Debug/netcoreapp2.1/Tax calculator.Views.dll
+/Users/eddylara/projects/Tax calculator/bin/Debug/netcoreapp2.1/Tax calculator.Views.pdb
+/Users/eddylara/projects/Tax calculator/obj/Debug/netcoreapp2.1/Tax calculator.csprojAssemblyReference.cache
+/Users/eddylara/projects/Tax calculator/obj/Debug/netcoreapp2.1/Tax calculator.csproj.CoreCompileInputs.cache
+/Users/eddylara/projects/Tax calculator/obj/Debug/netcoreapp2.1/Tax calculator.RazorAssemblyInfo.cache
+/Users/eddylara/projects/Tax calculator/obj/Debug/netcoreapp2.1/Tax calculator.RazorAssemblyInfo.cs
+/Users/eddylara/projects/Tax calculator/obj/Debug/netcoreapp2.1/Tax calculator.AssemblyInfoInputs.cache
+/Users/eddylara/projects/Tax calculator/obj/Debug/netcoreapp2.1/Tax calculator.AssemblyInfo.cs
+/Users/eddylara/projects/Tax calculator/obj/Debug/netcoreapp2.1/Tax calculator.TagHelpers.input.cache
+/Users/eddylara/projects/Tax calculator/obj/Debug/netcoreapp2.1/Tax calculator.TagHelpers.output.cache
+/Users/eddylara/projects/Tax calculator/obj/Debug/netcoreapp2.1/Tax calculator.RazorCoreGenerate.cache
+/Users/eddylara/projects/Tax calculator/obj/Debug/netcoreapp2.1/Razor/Views/Home/Index.g.cshtml.cs
+/Users/eddylara/projects/Tax calculator/obj/Debug/netcoreapp2.1/Razor/Views/Shared/Error.g.cshtml.cs
+/Users/eddylara/projects/Tax calculator/obj/Debug/netcoreapp2.1/Razor/Views/Shared/_Layout.g.cshtml.cs
+/Users/eddylara/projects/Tax calculator/obj/Debug/netcoreapp2.1/Razor/Views/Shared/_ValidationScriptsPartial.g.cshtml.cs
+/Users/eddylara/projects/Tax calculator/obj/Debug/netcoreapp2.1/Razor/Views/_ViewImports.g.cshtml.cs
+/Users/eddylara/projects/Tax calculator/obj/Debug/netcoreapp2.1/Razor/Views/_ViewStart.g.cshtml.cs
+/Users/eddylara/projects/Tax calculator/obj/Debug/netcoreapp2.1/Tax calculator.RazorTargetAssemblyInfo.cache
+/Users/eddylara/projects/Tax calculator/obj/Debug/netcoreapp2.1/Tax calculator.RazorTargetAssemblyInfo.cs
+/Users/eddylara/projects/Tax calculator/obj/Debug/netcoreapp2.1/Tax calculator.Views.pdb
+/Users/eddylara/projects/Tax calculator/obj/Debug/netcoreapp2.1/Tax calculator.dll
+/Users/eddylara/projects/Tax calculator/obj/Debug/netcoreapp2.1/Tax calculator.pdb
+/Users/eddylara/projects/Tax calculator/obj/Debug/netcoreapp2.1/Tax calculator.csproj.CopyComplete

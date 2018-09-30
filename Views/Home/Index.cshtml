@@ -1,0 +1,34 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+<div id="koContainer">
+<div>
+    <input type="text" placeholder="Expected 2018 gross wages" data-bind="value: wages"/><button type="button" id="btnCalculate"><label for="btnCalculate">Calculate</label>
+</div>
+<div>
+    <span id="lblResult">Expected taxes to be paid: </span> <label id="result" for="lblResult" data-bind="text: result"></label> 
+</div>
+</div>
+<script>
+     TaxCalculator = function (){
+        var tenPercentWage = 1905;
+        var twelvePercentWage = 7002;
+        var twelvePercentCap = 77400;
+        var wages = ko.observable(0);
+
+        var self = this;
+
+        self.wages = wages;
+
+        self.result = ko.computed(function () {
+            var wagesAfterDeductions = self.wages() - 24000 - 3500;
+            var expectedTax = 1905 + 7002;
+            if(wagesAfterDeductions > twelvePercentCap){
+                expectedTax += ((wagesAfterDeductions - twelvePercentCap) * .22);
+            }
+            return expectedTax;
+        }) 
+    }
+
+    ko.applyBindings(new TaxCalculator(), $("#koContainer")[0])
+</script>
