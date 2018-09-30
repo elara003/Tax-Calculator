@@ -11506,11 +11506,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/eddylara/projects/Tax calculator/Tax calculator.csproj",
+      "projectUniqueName": "/Users/eddylara/projects/Tax-Calculator/Tax calculator.csproj",
       "projectName": "Tax calculator",
-      "projectPath": "/Users/eddylara/projects/Tax calculator/Tax calculator.csproj",
+      "projectPath": "/Users/eddylara/projects/Tax-Calculator/Tax calculator.csproj",
       "packagesPath": "/Users/eddylara/.nuget/packages/",
-      "outputPath": "/Users/eddylara/projects/Tax calculator/obj/",
+      "outputPath": "/Users/eddylara/projects/Tax-Calculator/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
